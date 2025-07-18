@@ -55,7 +55,10 @@ Tecnologias que estudo para aprimorar minhas habilidades em desenvolvimento e in
 - **Git** – controle de versão e colaboração em projetos.
 - **Docker** – containerização e gestão de ambientes isolados.
 
----
+## 📊 GitHub Status
+
+[![JefersonManso's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonManso&show_icons=true&theme=tokyonight)](https://github.com/JefersonManso)
+
 
 
 
