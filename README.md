@@ -1,17 +1,17 @@
-# Olá, eu sou o Jeferson! 👋
+# 👋 Olá, eu sou o Jeferson!
 
 🎯 **Estudando desenvolvimento Full Stack** apaixonado por tecnologia, com foco em criar soluções eficientes, escaláveis e bem estruturadas. Com mais de 12 anos de experiência na indústria como **Engenheiro de Produção** (com pós-graduação em **Lean Manufacturing**), estou fazendo a transição para o mundo do **desenvolvimento de software** e aplicando minha visão sistêmica para construir códigos de alta qualidade.
 
 ---
 
-# 🚀 Tecnologias que tenho experiência
+## 🚀 Tecnologias que tenho experiência
 <table>
   <tr>
-    <th>🖥️ Frontend</th>
-    <th>🖥️ Backend</th>
-    <th>🧩 Framework</th>
-    <th>🗄️ Banco de Dados</th>
-    <th>🛠️ Outros</th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Frameworks</th>
+    <th>Banco de Dados</th>
+    <th>Outros</th>
   </tr>
   <tr>
     <td>
@@ -24,7 +24,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="30" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET MVC" width="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET" width="30" />
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" />
@@ -32,43 +32,45 @@
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="Razor Pages" width="30" />
     </td>
   </tr>
 </table>
 
 ---
 
+## 🧠 Tecnologias que estudo atualmente
 
-
-
-# 🚧 Tecnologias que estudo atualmente
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" />
 </p>
 
 Tecnologias que estudo para aprimorar minhas habilidades em desenvolvimento e infraestrutura:
 
 - **Linux** – administração e uso avançado do sistema.
-- **Git** – controle de versão e colaboração em projetos.
 - **Docker** – containerização e gestão de ambientes isolados.
+- **Git** – controle de versão e colaboração em projetos.
+
+---
 
 ## 📊 GitHub Status
 
 [![JefersonManso's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonManso&show_icons=true&theme=tokyonight)](https://github.com/JefersonManso)
 
+---
 
+## 📌 Linguagens mais usadas
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonManso&layout=compact&theme=tokyonight)](https://github.com/JefersonManso)
 
-# 📫 Como me encontrar:
+---
+
+## 📫 Como me encontrar
+
 - [LinkedIn](https://www.linkedin.com/in/jeferson-gomes/)
-- [Email](jrpsb@outlook.com)
-- [Perfil da plataforma DIO](https://web.dio.me/users/jefersonmansogomes?tab=achievements)
-
+- [Email](mailto:jrpsb@outlook.com)
+- [Perfil na DIO](https://web.dio.me/users/jefersonmansogomes?tab=achievements)
 
 ---
 
 > _"Sempre aprendendo, sempre evoluindo."_ 🚀
-
