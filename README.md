@@ -2,11 +2,12 @@
 
 🎯 **Estudando desenvolvimento Full Stack** apaixonado por tecnologia, com foco em criar soluções eficientes, escaláveis e bem estruturadas. Com mais de 12 anos de experiência na indústria como **Engenheiro de Produção** (com pós-graduação em **Lean Manufacturing**), estou fazendo a transição para o mundo do **desenvolvimento de software** e aplicando minha visão sistêmica para construir códigos de alta qualidade.
 
-## 🚀 Tecnologias que utilizo:
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Python, .NET/C#
-- **Banco de Dados**: PostgreSQL, MongoDB, MySql
-- **Outros**: Git, Docker, APIs REST
+## 🚀 Tecnologias que tenho experiência:
+- **Frontend**: [](https://img.icons8.com/?size=100&id=20909&format=png&color=000000) []() [] ()
+- **Backend**: Python, .NET/C#
+- **Framework**: ASP.NET MVC
+- **Banco de Dados**: PostgreSQL, MySql
+- **Outros**: Git, GitHub, Razor Pages
 
 ## 📚 Em constante aprendizado:
 - **TypeScript**
