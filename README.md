@@ -38,7 +38,7 @@
 
 ---
 
-## 🧠 Tecnologias que estudo atualmente
+## 🧠 Tecnologias que estudadas atualmente
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" />
