@@ -1,6 +1,20 @@
 # 👋 Olá, eu sou o Jeferson!
 
-🎯 **Estudando desenvolvimento Full Stack** apaixonado por tecnologia, com foco em criar soluções eficientes, escaláveis e bem estruturadas. Com mais de 12 anos de experiência na indústria como **Engenheiro de Produção** (com pós-graduação em **Lean Manufacturing**), estou fazendo a transição para o mundo do **desenvolvimento de software** e aplicando minha visão sistêmica para construir códigos de alta qualidade.
+🎯 **Profissional** em Transição de Carreira para Tecnologia, com sólida formação como **Engenheiro** de Produção e mais de 12 anos de experiência em ambientes industriais de alta performance. Atuação com foco em produção, manutenção, gestão de equipes e melhoria contínua, aplicando metodologias como Lean Manufacturing, TPM e gestão de indicadores operacionais.
+
+Atualmente, direciono meus esforços para o desenvolvimento backend em C# e .NET, unindo a capacidade analítica e visão sistêmica adquiridas na engenharia com habilidades técnicas em programação, modelagem de dados e desenvolvimento de APIs. Tenho como objetivo aplicar tecnologia para criar soluções robustas, escaláveis e eficientes, atendendo às demandas reais de negócios.
+
+
+🚀 Competências-chave
+
+Backend: C# | .NET 8 | ASP.NET Core MVC & Web API | Entity Framework Core | LINQ | Injeção de Dependência
+
+Bancos de Dados: SQL Server | MySQL | Modelagem Relacional | Procedures | Otimização de Consultas
+
+Ferramentas & Tecnologias: Git | GitHub | Postman | Swagger | HTML5 | CSS3 | JavaScript
+
+Diferencial: Experiência em Engenharia de Produção, Lean Manufacturing e Gestão de Indicadores
+
 
 ---
 
@@ -47,9 +61,9 @@
 
 Tecnologias que estudo para aprimorar minhas habilidades em desenvolvimento e infraestrutura:
 
-- **Linux** – administração e uso avançado do sistema.
-- **Docker** – containerização e gestão de ambientes isolados.
-- **Git** – controle de versão e colaboração em projetos.
+- **C#**  
+- **EEntity Framework Core** 
+- **SqlServer** – controle de versão e colaboração em projetos.
 
 ---
 
