@@ -63,8 +63,8 @@ Tecnologias que estudo para aprimorar minhas habilidades em desenvolvimento e in
 
 - **C#**  
 - **EEntity Framework Core** 
-- **SqlServer** – controle de versão e colaboração em projetos.
-
+- **SqlServer** 
+- **Linux** 
 ---
 
 ## 📊 GitHub Status
