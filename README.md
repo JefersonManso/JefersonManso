@@ -83,7 +83,6 @@ Tecnologias que estudo para aprimorar minhas habilidades em desenvolvimento e in
 
 - [LinkedIn](https://www.linkedin.com/in/jeferson-gomes/)
 - [Email](mailto:jrpsb@outlook.com)
-- [Perfil na DIO](https://web.dio.me/users/jefersonmansogomes?tab=achievements)
 
 ---
 
