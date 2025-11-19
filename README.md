@@ -1,89 +1,57 @@
-# 👋 Olá, eu sou o Jeferson!
+# 👋 Olá, eu sou Jeferson Gomes  
 
-🎯 **Profissional** em Transição de Carreira para Tecnologia, com sólida formação como **Engenheiro** de Produção e mais de 12 anos de experiência em ambientes industriais de alta performance. Atuação com foco em produção, manutenção, gestão de equipes e melhoria contínua, aplicando metodologias como Lean Manufacturing, TPM e gestão de indicadores operacionais.
+🎯 **Engenheiro de Produção em transição para Tecnologia**  
+💻 **Desenvolvedor Backend | C# | .NET Core | APIs RESTful | SQL Server**  
+📍 Rio de Janeiro, Brasil  
 
-Atualmente, direciono meus esforços para o desenvolvimento backend em C# e .NET, unindo a capacidade analítica e visão sistêmica adquiridas na engenharia com habilidades técnicas em programação, modelagem de dados e desenvolvimento de APIs. Tenho como objetivo aplicar tecnologia para criar soluções robustas, escaláveis e eficientes, atendendo às demandas reais de negócios.
+---
 
+## 🚀 Sobre mim
+Sou Engenheiro de Produção com mais de 12 anos de experiência em ambientes industriais de alta performance.  
+Atualmente, aplico essa visão sistêmica no **desenvolvimento backend** com **C# e .NET**, criando soluções escaláveis, seguras e voltadas à eficiência operacional.  
 
-🚀 Competências-chave
+- 🔧 Experiência com **.NET 8, Entity Framework Core, APIs RESTful, SQL Server**  
+- 📊 Forte background em **Lean Manufacturing, Gestão de Indicadores e Melhoria Contínua**  
+- 🌐 Portfólio: [github.com/JefersonManso](https://github.com/JefersonManso)  
+- 💼 LinkedIn: [linkedin.com/in/jeferson-gomes](https://www.linkedin.com/in/jeferson-gomes)  
 
-Backend: C# | .NET 8 | ASP.NET Core MVC & Web API | Entity Framework Core | LINQ | Injeção de Dependência
+---
 
-Bancos de Dados: SQL Server | MySQL | Modelagem Relacional | Procedures | Otimização de Consultas
+## 🛠️ Tecnologias & Ferramentas
+- **Backend:** C#, .NET 8, ASP.NET Core MVC & Web API, Entity Framework Core, LINQ, Injeção de Dependência  
+- **Banco de Dados:** SQL Server, MySQL, Modelagem Relacional, Procedures, Otimização de Consultas  
+- **Ferramentas:** Git, GitHub, Docker, Postman, Swagger  
+- **Frontend básico:** HTML5, CSS3, JavaScript  
 
-Ferramentas & Tecnologias: Git | GitHub | Postman | Swagger | HTML5 | CSS3 | JavaScript
+---
 
-Diferencial: Experiência em Engenharia de Produção, Lean Manufacturing e Gestão de Indicadores
+## 📈 GitHub Stats
+![Jeferson GitHub Stats](https://github-readme-stats.vercel.app/api?username=JefersonManso&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonManso&layout=compact&theme=radical)  
+
+---
+
+## 🌟 Projetos em Destaque
+Aqui estão alguns dos meus principais projetos disponíveis no GitHub:
+
+- 🔹 [API RESTful em .NET 8](https://github.com/JefersonManso/Api-De-Sistema-gerenciador-De-Tarefas) – Exemplo de arquitetura limpa e boas práticas.  
+- 🔹 [Sistema de Gestão de Estacionamento](https://github.com/JefersonManso) – sistema para gerenciar veículos estacionados.  
+- 🔹 [Jogo de Herói](https://github.com/JefersonManso/Jogo-De-Heroi) – Sistema simples de criação de heróis com diferentes classes: mago, guerreiro, monge e ninja. .  
+ 
+
 
 
 ---
 
-## 🚀 Tecnologias que tenho experiência
-<table>
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Frameworks</th>
-    <th>Banco de Dados</th>
-    <th>Outros</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="30" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET" width="30" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" />
-    </td>
-  </tr>
-</table>
+## 🎯 Objetivo
+Contribuir para times de desenvolvimento entregando soluções que otimizem processos, reduzam desperdícios e aumentem o valor gerado ao cliente.  
 
 ---
 
-## 🧠 Tecnologias que estudo atualmente
+## 📬 Contato
+- 📧 Email: jefersonmansogomes@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jeferson-gomes)  
+- 🌐 [Portfólio GitHub](https://github.com/JefersonManso)  
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" />
-</p>
 
-Tecnologias que estudo para aprimorar minhas habilidades em desenvolvimento e infraestrutura:
-
-- **C#**  
-- **EEntity Framework Core** 
-- **SqlServer** 
-- **Linux** 
----
-
-## 📊 GitHub Status
-
-[![JefersonManso's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonManso&show_icons=true&theme=tokyonight)](https://github.com/JefersonManso)
-
----
-
-## 📌 Linguagens mais usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonManso&layout=compact&theme=tokyonight)](https://github.com/JefersonManso)
-
----
-
-## 📫 Como me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/jeferson-gomes/)
-- [Email](mailto:jrpsb@outlook.com)
-
----
-
-> _"Sempre aprendendo, sempre evoluindo."_ 🚀
