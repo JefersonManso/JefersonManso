@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou Jeferson Gomes  
 
-🎯 **Engenheiro de Produção em transição para Tecnologia**  
+🎯 **Engenheiro de Produção.**  
 💻 **Desenvolvedor Backend | C# | .NET Core | APIs RESTful | SQL Server**  
 📍 Rio de Janeiro, Brasil  
 
 ---
 
 ## 🚀 Sobre mim
-Sou Engenheiro de Produção com mais de 12 anos de experiência em ambientes industriais de alta performance.  
+Engenheiro de Produção com mais de 12 anos de experiência em ambientes industriais de alta performance.  
 Atualmente, aplico essa visão sistêmica no **desenvolvimento backend** com **C# e .NET**, criando soluções escaláveis, seguras e voltadas à eficiência operacional.  
 
 - 🔧 Experiência com **.NET 8, Entity Framework Core, APIs RESTful, SQL Server**  
